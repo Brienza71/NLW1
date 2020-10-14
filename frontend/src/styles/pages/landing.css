@@ -22,6 +22,8 @@
     align-items: flex-start;
     flex-direction: column;
     justify-content: space-between; /* Separa os itens, um no começo, meio e fim. */
+
+    background: url('../../images/landing.svg') no-repeat 80% center;
 }
 
 #page-landing .content-wrapper main {
